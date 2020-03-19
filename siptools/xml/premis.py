@@ -18,6 +18,7 @@ PREMIS_EVENT_TYPES = [
     'preservation responsibility change',
     'processing',
     'replication',
+    'transfer',
     'scan',
     'object validation',
     'virus check',
